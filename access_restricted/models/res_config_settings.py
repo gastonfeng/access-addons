@@ -1,7 +1,7 @@
 
 from odoo import SUPERUSER_ID
-from odoo import models
 from odoo import api
+from odoo import models
 from odoo.tools import ustr
 from odoo.tools.translate import _
 

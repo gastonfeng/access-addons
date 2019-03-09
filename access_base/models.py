@@ -1,8 +1,8 @@
-from openerp import fields, api, models
 from lxml import etree
 from lxml.builder import E
-from openerp.tools.translate import _
+from openerp import fields, api, models
 from openerp.addons.base.res.res_users import name_boolean_group, name_selection_groups
+from openerp.tools.translate import _
 
 
 class GroupsView(models.Model):

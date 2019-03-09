@@ -1,4 +1,5 @@
 from openerp.tests.common import TransactionCase
+
 from odoo.exceptions import AccessError
 
 
